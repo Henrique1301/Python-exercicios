@@ -1,0 +1,5 @@
+print("==="*45)
+print("Respondendo ao usuário")
+print("==="*45)
+nome = str(input("Digite seu nome:"))
+print("Seja bem vindo {}".format(nome))
